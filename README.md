@@ -1,127 +1,124 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR4dTRrY2Y0aW52dm95aDZ5bXQ0MXd0OG5sb2I0ZDJkM2t3bDZrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+<br/>
 
-# ⚡ DIPAL SHRESTHA ⚡
+<h1>Dipal Kumar Shrestha</h1>
+<p><sub>COMPUTER ENGINEERING STUDENT · AI/ML ENTHUSIAST · BLOCKCHAIN DEVELOPER (LEARNING)</sub></p>
 
-### `Full Stack Developer` • `Python Engineer` • `Web3 Builder`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6E6E73&center=true&vCenter=true&width=560&lines=Building+full-stack+products;Shipping+Odoo+%2F+ERP+solutions;Training+ML+models;Prototyping+with+Solidity+%2B+IPFS" alt="typing"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Decentralized+Systems;Smart+Contract+Developer;Full+Stack+Engineer;Python+Automation+Wizard;Welcome+to+my+Cyberpunk+Profile"/>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/dipal-kumar-shrestha-78535725b"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://deepalcodes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-# 🧠 ABOUT ME
+## About
 
-```yaml
-Name: Dipal Shrestha
-Location: Nepal
-Education: Computer Engineering
-Focus:
-  - Full Stack Development
-  - Python Engineering
-  - Blockchain & Web3
-  - Smart Contracts
-  - Decentralized Systems
+Computer Engineering student (8th semester, Pokhara University) based in Lalitpur, Nepal, building practical software across full-stack web, Odoo/ERP, applied ML, and blockchain. President of ICT Club Cosmos, and previously a Software Engineering Intern at The AI Foundry.
 
-Currently Building:
-  - Decentralized DNS using IPFS
-  - Solidity Smart Contracts
-  - Odoo Modules
-  - Automation Tools
+```
+education   b.e. computer engineering · pokhara university · cgpa 3.76
+focus       full-stack dev · applied ml · blockchain / web3 · odoo / erp
+approach    ai-assisted, iterative, minimal surface area
 ```
 
----
+<br/>
 
-# ⚔ TECH ARSENAL
+## Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00F7FF)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00F7FF)
-![NodeJS](https://img.shields.io/badge/NodeJS-0d1117?style=for-the-badge&logo=node.js&logoColor=00F7FF)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=00F7FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F7FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00F7FF)
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo-000000?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-# 🚀 CURRENT MISSIONS
+## Currently
 
-- 🔹 Building decentralized DNS infrastructure
-- 🔹 Exploring IPFS + Smart Contracts
-- 🔹 Creating full-stack web applications
-- 🔹 Developing Odoo modules
-- 🔹 Learning advanced system architecture
+- Finishing my final year in Computer Engineering
+- Building applied ML pipelines (drug discovery, emotion detection)
+- Prototyping blockchain / Web3 systems (Solidity, IPFS)
+- Leading ICT Club Cosmos as President
 
----
+<br/>
 
-# 📊 GITHUB STATS
+## Experience
+
+**Software Engineering Intern — The AI Foundry**
+Built and maintained a production Odoo-based Restaurant Management System — kitchen display redesign, thermal-printer integration, menu restructuring, deployment pipeline (GitHub → SSH → Docker VPS) — and shipped an internal Odoo gamification addon.
+
+**President — ICT Club Cosmos**
+Leading student tech initiatives and workshops, and coordinating industry partnerships for 100+ members.
+
+<br/>
+
+## Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Himalayan Herbal AI** | Python, PyTorch, RDKit, FastAPI, SHAP | Antimicrobial bioactivity pipeline on 309 curated compounds; F1 0.928 (RF); SHAP-driven interpretability; deployed on Hugging Face Spaces |
+| **SahajPay** | React Native, Node.js, Prisma, PostgreSQL | Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom ledger, Bluetooth/NFC scaffolding |
+| **Decentralized DNS (DDNS)** | Solidity, IPFS, JavaScript | DNS replacement using Ethereum smart contracts + IPFS for tamper-proof, zero-downtime resolution |
+| **AI Data Analyst** | Python, Streamlit, DuckDB, Ollama | Natural-language-to-SQL assistant with query safety validation and Plotly visualizations |
+| **Human Emotion Detection** | Python, TensorFlow, PyTorch | End-to-end multimodal emotion classification pipeline |
+| **Restaurant Management System** | Python, Odoo, XML, PostgreSQL | Production ordering, reservations, and kitchen-display system for a live restaurant client |
+
+<br/>
+
+## GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=6E6E73&text_color=333333"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepalsr&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepalsr&theme=default&hide_border=true&background=FFFFFF&stroke=E5E5E5&ring=000000&fire=000000&currStreakLabel=000000"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000"/>
 
 </div>
 
----
+<br/>
 
-# 🌌 CYBER CONTRIBUTION GRID
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 
 </div>
 
----
-
-# 🐍 CONTRIBUTION SNAKE
+<br/>
 
 <div align="center">
 
-![snake gif](https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake-dark.svg)
+<sub>Code. Create. Iterate.</sub>
 
-</div>
+<br/><br/>
 
----
-
-# 🛰 CONNECT WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://instagram.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00F7FF)](https://github.com)
-
-</div>
-
----
-
-# ☠ SYSTEM STATUS
-
-```diff
-+ STATUS: ONLINE
-+ CURRENTLY CODING
-+ BUILDING THE FUTURE
-+ NEURAL NETWORK ACTIVE
-```
-
----
-
-<div align="center">
-
-### ⚡ "Code. Create. Decentralize." ⚡
-
-<img src="https://komarev.com/ghpvc/?username=deepalsr&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=deepalsr&style=flat-square&color=000000&label=profile+views" />
 
 </div>
