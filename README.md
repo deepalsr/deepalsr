@@ -228,14 +228,14 @@ Production restaurant management system covering ordering, reservations, adminis
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&hide_border=true&bg_color=121318&title_color=C0C1FF&icon_color=4CD7F6&text_color=E3E1E9&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&hide_border=true&bg_color=121318&title_color=C0C1FF&icon_color=4CD7F6&text_color=E3E1E9&cache_seconds=86400"
   alt="Dipal's GitHub Stats"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&hide_border=true&bg_color=121318&title_color=C0C1FF&text_color=E3E1E9&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&hide_border=true&bg_color=121318&title_color=C0C1FF&text_color=E3E1E9&cache_seconds=86400"
   alt="Top Languages"
 />
 
@@ -250,15 +250,13 @@ Production restaurant management system covering ordering, reservations, adminis
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&hide_border=true&bg_color=121318&color=4CD7F6&line=8083FF&point=C0C1FF"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&bg_color=121318&color=4CD7F6&line=8083FF&point=C0C1FF&hide_border=true"
   alt="GitHub Activity Graph"
 />
 
 </div>
 
 <br/>
-
-## `06` — Contribution Snake
 
 <div align="center">
 
