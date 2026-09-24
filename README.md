@@ -1,124 +1,204 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:121318,100:1a1b21&text=Dipal%20Kumar%20Shrestha&fontColor=C0C1FF&fontSize=42&fontAlignY=40&desc=AI%2FML%20Engineer%20·%20Blockchain%20Developer&descAlignY=62&descSize=18&descColor=4CD7F6&animation=fadeIn"/>
+
 <br/>
 
-<h1>Dipal Kumar Shrestha</h1>
-<p><sub>COMPUTER ENGINEERING STUDENT · AI/ML ENTHUSIAST · BLOCKCHAIN DEVELOPER (LEARNING)</sub></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6E6E73&center=true&vCenter=true&width=560&lines=Building+full-stack+products;Shipping+Odoo+%2F+ERP+solutions;Training+ML+models;Prototyping+with+Solidity+%2B+IPFS" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4CD7F6&center=true&vCenter=true&width=560&lines=training+models+·+shipping+smart+contracts;fine-tuning+ml+pipelines;prototyping+decentralized+systems;odoo+%2B+full-stack+on+the+side" alt="typing"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dipal-kumar-shrestha-78535725b"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://deepalcodes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## About
-
-Computer Engineering student (8th semester, Pokhara University) based in Lalitpur, Nepal, building practical software across full-stack web, Odoo/ERP, applied ML, and blockchain. President of ICT Club Cosmos, and previously a Software Engineering Intern at The AI Foundry.
-
-```
-education   b.e. computer engineering · pokhara university · cgpa 3.76
-focus       full-stack dev · applied ml · blockchain / web3 · odoo / erp
-approach    ai-assisted, iterative, minimal surface area
-```
-
-<br/>
-
-## Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo-000000?style=flat-square&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-
-</div>
-
-<br/>
-
-## Currently
-
-- Finishing my final year in Computer Engineering
-- Building applied ML pipelines (drug discovery, emotion detection)
-- Prototyping blockchain / Web3 systems (Solidity, IPFS)
-- Leading ICT Club Cosmos as President
-
-<br/>
-
-## Experience
-
-**Software Engineering Intern — The AI Foundry**
-Built and maintained a production Odoo-based Restaurant Management System — kitchen display redesign, thermal-printer integration, menu restructuring, deployment pipeline (GitHub → SSH → Docker VPS) — and shipped an internal Odoo gamification addon.
-
-**President — ICT Club Cosmos**
-Leading student tech initiatives and workshops, and coordinating industry partnerships for 100+ members.
-
-<br/>
-
-## Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **Himalayan Herbal AI** | Python, PyTorch, RDKit, FastAPI, SHAP | Antimicrobial bioactivity pipeline on 309 curated compounds; F1 0.928 (RF); SHAP-driven interpretability; deployed on Hugging Face Spaces |
-| **SahajPay** | React Native, Node.js, Prisma, PostgreSQL | Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom ledger, Bluetooth/NFC scaffolding |
-| **Decentralized DNS (DDNS)** | Solidity, IPFS, JavaScript | DNS replacement using Ethereum smart contracts + IPFS for tamper-proof, zero-downtime resolution |
-| **AI Data Analyst** | Python, Streamlit, DuckDB, Ollama | Natural-language-to-SQL assistant with query safety validation and Plotly visualizations |
-| **Human Emotion Detection** | Python, TensorFlow, PyTorch | End-to-end multimodal emotion classification pipeline |
-| **Restaurant Management System** | Python, Odoo, XML, PostgreSQL | Production ordering, reservations, and kitchen-display system for a live restaurant client |
-
-<br/>
-
-## GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=6E6E73&text_color=333333"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepalsr&theme=default&hide_border=true&background=FFFFFF&stroke=E5E5E5&ring=000000&fire=000000&currStreakLabel=000000"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>Code. Create. Iterate.</sub>
+<img src="https://img.shields.io/badge/status-online-4CD7F6?style=for-the-badge&labelColor=121318"/>
+<img src="https://img.shields.io/badge/focus-AI%2FML_·_Web3-C0C1FF?style=for-the-badge&labelColor=121318"/>
+<img src="https://img.shields.io/badge/based_in-Nepal-8083FF?style=for-the-badge&labelColor=121318"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deepalsr&style=flat-square&color=000000&label=profile+views" />
+<a href="https://www.linkedin.com/in/dipal-kumar-shrestha-78535725b"><img src="https://img.shields.io/badge/LinkedIn-121318?style=for-the-badge&logo=linkedin&logoColor=4CD7F6"/></a>
+<a href="https://deepalcodes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121318?style=for-the-badge&logo=firefox&logoColor=C0C1FF"/></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+## `01` — Overview
+
+> Computer Engineering student (8th semester, Pokhara University · CGPA 3.76) based in Lalitpur, Nepal. I build applied ML pipelines and Web3 prototypes, and ship production full-stack / Odoo systems on the side. President, ICT Club Cosmos. Previously Software Engineering Intern at The AI Foundry.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 AI / ML**
+Deep learning pipelines, model interpretability (SHAP), and applied research — from antimicrobial drug discovery to emotion detection.
+
+</td>
+<td width="50%" valign="top">
+
+**⛓ Blockchain**
+Smart contracts, IPFS, and decentralized architecture — from a fully decentralized DNS to an offline CBDC wallet prototype.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` — Core Focus
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+🧬<br/>**Applied ML**
+<sub>PyTorch · TensorFlow<br/>Scikit-learn</sub>
+
+</td>
+<td width="25%" align="center">
+
+⛓<br/>**Smart Contracts**
+<sub>Solidity · IPFS<br/>DApps</sub>
+
+</td>
+<td width="25%" align="center">
+
+🗄<br/>**Full-Stack / ERP**
+<sub>Odoo · React<br/>PostgreSQL</sub>
+
+</td>
+<td width="25%" align="center">
+
+🤖<br/>**AI Tooling**
+<sub>FastAPI · Streamlit<br/>Gradio · LLM pipelines</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03` — Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-121318?style=for-the-badge&logo=python&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/Solidity-121318?style=for-the-badge&logo=solidity&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/TypeScript-121318?style=for-the-badge&logo=typescript&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/JavaScript-121318?style=for-the-badge&logo=javascript&logoColor=C0C1FF"/>
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-121318?style=for-the-badge&logo=pytorch&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/TensorFlow-121318?style=for-the-badge&logo=tensorflow&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-121318?style=for-the-badge&logo=scikit-learn&logoColor=4CD7F6"/>
+<br/>
+<img src="https://img.shields.io/badge/React-121318?style=for-the-badge&logo=react&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/React_Native-121318?style=for-the-badge&logo=react&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/Node.js-121318?style=for-the-badge&logo=node.js&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/Odoo-121318?style=for-the-badge&logo=odoo&logoColor=C0C1FF"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-121318?style=for-the-badge&logo=postgresql&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/Docker-121318?style=for-the-badge&logo=docker&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/Git-121318?style=for-the-badge&logo=git&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/Linux-121318?style=for-the-badge&logo=linux&logoColor=C0C1FF"/>
+
+</div>
+
+<br/>
+
+## `04` — Pinned Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧬 Himalayan Herbal AI**
+<sub>Python · PyTorch · RDKit · FastAPI · SHAP</sub>
+Antimicrobial bioactivity pipeline on 309 curated compounds — F1 0.928 (RF), scaffold-split CV, SHAP interpretability, deployed on Hugging Face Spaces.
+
+</td>
+<td width="50%" valign="top">
+
+**💳 SahajPay**
+<sub>React Native · Node.js · Prisma · PostgreSQL</sub>
+Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom ledger, Bluetooth/NFC scaffolding.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Decentralized DNS**
+<sub>Solidity · IPFS · JavaScript</sub>
+DNS replacement built on Ethereum smart contracts + IPFS for tamper-proof, zero-downtime resolution.
+
+</td>
+<td width="50%" valign="top">
+
+**💬 AI Data Analyst**
+<sub>Python · Streamlit · DuckDB · Ollama</sub>
+Natural-language-to-SQL assistant with query safety validation and Plotly visualizations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎭 Human Emotion Detection**
+<sub>Python · TensorFlow · PyTorch</sub>
+End-to-end multimodal pipeline for emotion classification.
+
+</td>
+<td width="50%" valign="top">
+
+**🍽 Restaurant Management System**
+<sub>Python · Odoo · XML · PostgreSQL</sub>
+Production ordering, reservations, and kitchen-display system for a live restaurant client.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `05` — Contribution Matrix
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&hide_border=true&bg_color=121318&title_color=C0C1FF&icon_color=4CD7F6&text_color=E3E1E9&ring_color=8083FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&hide_border=true&bg_color=121318&title_color=C0C1FF&text_color=E3E1E9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepalsr&hide_border=true&background=121318&stroke=464554&ring=4CD7F6&fire=8083FF&currStreakLabel=4CD7F6"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&hide_border=true&bg_color=121318&color=4CD7F6&line=8083FF&point=C0C1FF"/>
+
+</div>
+
+<br/>
+
+## `06` — Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+<div align="center">
+<br/>
+
+`training models · shaping contracts · shipping systems`
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deepalsr&style=for-the-badge&color=8083ff&label=PROFILE+VIEWS&labelColor=121318"/>
 
 </div>
