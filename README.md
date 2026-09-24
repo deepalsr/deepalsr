@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4CD7F6&center=true&vCenter=true&width=560&lines=training+models+·+shipping+smart+contracts;fine-tuning+ml+pipelines;prototyping+decentralized+systems;odoo+%2B+full-stack+on+the+side" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4CD7F6&center=true&vCenter=true&width=560&lines=training+models+·+shipping+smart+contracts;fine-tuning+ML+pipelines;prototyping+decentralized+systems;Odoo+%2B+full-stack+on+the+side" alt="typing"/>
 
 <br/><br/>
 
@@ -14,8 +14,17 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dipal-kumar-shrestha-78535725b"><img src="https://img.shields.io/badge/LinkedIn-121318?style=for-the-badge&logo=linkedin&logoColor=4CD7F6"/></a>
-<a href="https://deepalcodes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121318?style=for-the-badge&logo=firefox&logoColor=C0C1FF"/></a>
+<a href="https://www.linkedin.com/in/dipal-kumar-shrestha-78535725b">
+<img src="https://img.shields.io/badge/LinkedIn-121318?style=for-the-badge&logo=linkedin&logoColor=4CD7F6"/>
+</a>
+
+<a href="https://deepalcodes.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-121318?style=for-the-badge&logo=firefox&logoColor=C0C1FF"/>
+</a>
+
+<a href="https://github.com/deepalsr">
+<img src="https://img.shields.io/badge/GitHub-121318?style=for-the-badge&logo=github&logoColor=4CD7F6"/>
+</a>
 
 </div>
 
@@ -29,20 +38,23 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 **🧠 AI / ML**
 
-Deep learning pipelines, model interpretability (SHAP), and applied research — from antimicrobial drug discovery to emotion detection.
+Deep learning pipelines, model interpretability, and applied research — from antimicrobial drug discovery to multimodal emotion detection.
 
 </td>
+
 <td width="50%" valign="top">
 
 **⛓ Blockchain**
 
-Smart contracts, IPFS, and decentralized architecture — from a fully decentralized DNS to an offline CBDC wallet prototype.
+Smart contracts, IPFS, and decentralized architecture — from decentralized DNS to an offline CBDC wallet prototype.
 
 </td>
+
 </tr>
 </table>
 
@@ -52,6 +64,7 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 
 <table>
 <tr>
+
 <td width="25%" align="center">
 
 🧬
@@ -61,6 +74,7 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <sub>PyTorch · TensorFlow · Scikit-learn</sub>
 
 </td>
+
 <td width="25%" align="center">
 
 ⛓
@@ -70,6 +84,7 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <sub>Solidity · IPFS · DApps</sub>
 
 </td>
+
 <td width="25%" align="center">
 
 🗄
@@ -79,6 +94,7 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <sub>Odoo · React · PostgreSQL</sub>
 
 </td>
+
 <td width="25%" align="center">
 
 🤖
@@ -88,6 +104,7 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <sub>FastAPI · Streamlit · Gradio</sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -101,16 +118,24 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <img src="https://img.shields.io/badge/Solidity-121318?style=for-the-badge&logo=solidity&logoColor=C0C1FF"/>
 <img src="https://img.shields.io/badge/TypeScript-121318?style=for-the-badge&logo=typescript&logoColor=4CD7F6"/>
 <img src="https://img.shields.io/badge/JavaScript-121318?style=for-the-badge&logo=javascript&logoColor=C0C1FF"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/PyTorch-121318?style=for-the-badge&logo=pytorch&logoColor=4CD7F6"/>
 <img src="https://img.shields.io/badge/TensorFlow-121318?style=for-the-badge&logo=tensorflow&logoColor=C0C1FF"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-121318?style=for-the-badge&logo=scikit-learn&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-121318?style=for-the-badge&logo=scikit-learn&logoColor=4CD7F6"/>
+<img src="https://img.shields.io/badge/RDKit-121318?style=for-the-badge&logoColor=C0C1FF"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/React-121318?style=for-the-badge&logo=react&logoColor=4CD7F6"/>
 <img src="https://img.shields.io/badge/React_Native-121318?style=for-the-badge&logo=react&logoColor=C0C1FF"/>
 <img src="https://img.shields.io/badge/Node.js-121318?style=for-the-badge&logo=node.js&logoColor=4CD7F6"/>
-<img src="https://img.shields.io/badge/Odoo-121318?style=for-the-badge&logo=odoo&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/FastAPI-121318?style=for-the-badge&logo=fastapi&logoColor=C0C1FF"/>
+<img src="https://img.shields.io/badge/Odoo-121318?style=for-the-badge&logo=odoo&logoColor=4CD7F6"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-121318?style=for-the-badge&logo=postgresql&logoColor=4CD7F6"/>
 <img src="https://img.shields.io/badge/Docker-121318?style=for-the-badge&logo=docker&logoColor=C0C1FF"/>
 <img src="https://img.shields.io/badge/Git-121318?style=for-the-badge&logo=git&logoColor=4CD7F6"/>
@@ -124,58 +149,75 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 #### 🧬 Himalayan Herbal AI
+
 <sub>Python · PyTorch · RDKit · FastAPI · SHAP</sub>
 
-Antimicrobial bioactivity pipeline on 309 curated compounds — F1 0.928 (RF), scaffold-split CV, SHAP interpretability, deployed on Hugging Face Spaces.
+Antimicrobial bioactivity prediction pipeline built on 309 curated compounds. Includes scaffold-split cross-validation, SHAP interpretability, and an interactive deployment on Hugging Face Spaces.
 
 </td>
+
 <td width="50%" valign="top">
 
 #### 💳 SahajPay
+
 <sub>React Native · Node.js · Prisma · PostgreSQL</sub>
 
-Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom ledger, Bluetooth/NFC scaffolding.
+Offline CBDC payment prototype for Nepal featuring ECDSA-signed offline tokens, a custom transaction ledger, and Bluetooth/NFC communication scaffolding.
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 #### 🌐 Decentralized DNS
+
 <sub>Solidity · IPFS · JavaScript</sub>
 
-DNS replacement built on Ethereum smart contracts + IPFS for tamper-proof, zero-downtime resolution.
+Decentralized DNS replacement using Ethereum smart contracts and IPFS for blockchain-based domain mapping and decentralized resolution.
 
 </td>
+
 <td width="50%" valign="top">
 
 #### 💬 AI Data Analyst
+
 <sub>Python · Streamlit · DuckDB · Ollama</sub>
 
-Natural-language-to-SQL assistant with query safety validation and Plotly visualizations.
+Natural-language-to-SQL assistant with query validation, safe database access, and interactive Plotly visualizations.
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 #### 🎭 Human Emotion Detection
+
 <sub>Python · TensorFlow · PyTorch</sub>
 
-End-to-end multimodal pipeline for emotion classification.
+End-to-end multimodal machine-learning pipeline for emotion classification using deep-learning approaches.
 
 </td>
+
 <td width="50%" valign="top">
 
 #### 🍽 Restaurant Management System
+
 <sub>Python · Odoo · XML · PostgreSQL</sub>
 
-Production ordering, reservations, and kitchen-display system for a live restaurant client.
+Production restaurant management system covering ordering, reservations, administration, and kitchen-display workflows for a live client.
 
 </td>
+
 </tr>
 </table>
 
@@ -185,16 +227,32 @@ Production ordering, reservations, and kitchen-display system for a live restaur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&hide_border=true&bg_color=121318&title_color=C0C1FF&icon_color=4CD7F6&text_color=E3E1E9&ring_color=8083FF"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&hide_border=true&bg_color=121318&title_color=C0C1FF&text_color=E3E1E9"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=deepalsr&show_icons=true&hide_border=true&bg_color=121318&title_color=C0C1FF&icon_color=4CD7F6&text_color=E3E1E9&cache_seconds=1800"
+  alt="Dipal's GitHub Stats"
+/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=deepalsr&hide_border=true&background=121318&stroke=464554&ring=4CD7F6&fire=8083FF&currStreakLabel=4CD7F6"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalsr&layout=compact&hide_border=true&bg_color=121318&title_color=C0C1FF&text_color=E3E1E9&cache_seconds=1800"
+  alt="Top Languages"
+/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&hide_border=true&bg_color=121318&color=4CD7F6&line=8083FF&point=C0C1FF"/>
+<img
+  src="https://streak-stats.demolab.com/?user=deepalsr&theme=dark&hide_border=true&background=121318&stroke=464554&ring=4CD7F6&fire=8083FF&currStreakLabel=4CD7F6&sideLabels=C0C1FF&currStreakNum=E3E1E9&sideNums=E3E1E9"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=deepalsr&hide_border=true&bg_color=121318&color=4CD7F6&line=8083FF&point=C0C1FF"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -204,10 +262,25 @@ Production ordering, reservations, and kitchen-display system for a live restaur
 
 <div align="center">
 
-<img width="100%" src="https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+<picture>
 
-<br/>
-<sub>renders after the first Action run on GitHub — push this repo, then trigger the "Generate Snake" workflow once</sub>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepalsr/deepalsr/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepalsr/deepalsr/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    width="100%"
+    src="https://raw.githubusercontent.com/deepalsr/deepalsr/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
@@ -216,12 +289,16 @@ Production ordering, reservations, and kitchen-display system for a live restaur
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <div align="center">
+
 <br/>
 
 `training models · shaping contracts · shipping systems`
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deepalsr&style=for-the-badge&color=8083ff&label=PROFILE+VIEWS&labelColor=121318"/>
+<img
+  src="https://komarev.com/ghpvc/?username=deepalsr&style=for-the-badge&color=8083ff&label=PROFILE+VIEWS&labelColor=121318"
+  alt="Profile Views"
+/>
 
 </div>
