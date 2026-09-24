@@ -32,12 +32,14 @@
 <td width="50%" valign="top">
 
 **🧠 AI / ML**
+
 Deep learning pipelines, model interpretability (SHAP), and applied research — from antimicrobial drug discovery to emotion detection.
 
 </td>
 <td width="50%" valign="top">
 
 **⛓ Blockchain**
+
 Smart contracts, IPFS, and decentralized architecture — from a fully decentralized DNS to an offline CBDC wallet prototype.
 
 </td>
@@ -52,26 +54,38 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <tr>
 <td width="25%" align="center">
 
-🧬<br/>**Applied ML**
-<sub>PyTorch · TensorFlow<br/>Scikit-learn</sub>
+🧬
+
+**Applied ML**
+
+<sub>PyTorch · TensorFlow · Scikit-learn</sub>
 
 </td>
 <td width="25%" align="center">
 
-⛓<br/>**Smart Contracts**
-<sub>Solidity · IPFS<br/>DApps</sub>
+⛓
+
+**Smart Contracts**
+
+<sub>Solidity · IPFS · DApps</sub>
 
 </td>
 <td width="25%" align="center">
 
-🗄<br/>**Full-Stack / ERP**
-<sub>Odoo · React<br/>PostgreSQL</sub>
+🗄
+
+**Full-Stack / ERP**
+
+<sub>Odoo · React · PostgreSQL</sub>
 
 </td>
 <td width="25%" align="center">
 
-🤖<br/>**AI Tooling**
-<sub>FastAPI · Streamlit<br/>Gradio · LLM pipelines</sub>
+🤖
+
+**AI Tooling**
+
+<sub>FastAPI · Streamlit · Gradio</sub>
 
 </td>
 </tr>
@@ -112,15 +126,17 @@ Smart contracts, IPFS, and decentralized architecture — from a fully decentral
 <tr>
 <td width="50%" valign="top">
 
-**🧬 Himalayan Herbal AI**
+#### 🧬 Himalayan Herbal AI
 <sub>Python · PyTorch · RDKit · FastAPI · SHAP</sub>
+
 Antimicrobial bioactivity pipeline on 309 curated compounds — F1 0.928 (RF), scaffold-split CV, SHAP interpretability, deployed on Hugging Face Spaces.
 
 </td>
 <td width="50%" valign="top">
 
-**💳 SahajPay**
+#### 💳 SahajPay
 <sub>React Native · Node.js · Prisma · PostgreSQL</sub>
+
 Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom ledger, Bluetooth/NFC scaffolding.
 
 </td>
@@ -128,15 +144,17 @@ Offline CBDC payment prototype for Nepal — ECDSA-signed offline tokens, custom
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Decentralized DNS**
+#### 🌐 Decentralized DNS
 <sub>Solidity · IPFS · JavaScript</sub>
+
 DNS replacement built on Ethereum smart contracts + IPFS for tamper-proof, zero-downtime resolution.
 
 </td>
 <td width="50%" valign="top">
 
-**💬 AI Data Analyst**
+#### 💬 AI Data Analyst
 <sub>Python · Streamlit · DuckDB · Ollama</sub>
+
 Natural-language-to-SQL assistant with query safety validation and Plotly visualizations.
 
 </td>
@@ -144,15 +162,17 @@ Natural-language-to-SQL assistant with query safety validation and Plotly visual
 <tr>
 <td width="50%" valign="top">
 
-**🎭 Human Emotion Detection**
+#### 🎭 Human Emotion Detection
 <sub>Python · TensorFlow · PyTorch</sub>
+
 End-to-end multimodal pipeline for emotion classification.
 
 </td>
 <td width="50%" valign="top">
 
-**🍽 Restaurant Management System**
+#### 🍽 Restaurant Management System
 <sub>Python · Odoo · XML · PostgreSQL</sub>
+
 Production ordering, reservations, and kitchen-display system for a live restaurant client.
 
 </td>
@@ -170,7 +190,7 @@ Production ordering, reservations, and kitchen-display system for a live restaur
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepalsr&hide_border=true&background=121318&stroke=464554&ring=4CD7F6&fire=8083FF&currStreakLabel=4CD7F6"/>
+<img src="https://streak-stats.demolab.com/?user=deepalsr&hide_border=true&background=121318&stroke=464554&ring=4CD7F6&fire=8083FF&currStreakLabel=4CD7F6"/>
 
 <br/>
 
@@ -185,6 +205,9 @@ Production ordering, reservations, and kitchen-display system for a live restaur
 <div align="center">
 
 <img width="100%" src="https://github.com/deepalsr/deepalsr/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+
+<br/>
+<sub>renders after the first Action run on GitHub — push this repo, then trigger the "Generate Snake" workflow once</sub>
 
 </div>
 
