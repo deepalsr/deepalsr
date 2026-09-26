@@ -152,17 +152,17 @@ Smart contracts, IPFS, and decentralized architecture — from decentralized DNS
 
 <td width="50%" valign="top">
 
-#### 🧬 Himalayan Herbal AI
+#### [📚 AI RAG Assistant](https://github.com/deepalsr/ai_rag_assistant)
 
-<sub>Python · PyTorch · RDKit · FastAPI · SHAP</sub>
+<sub>Python · ChromaDB · Sentence-Transformers · Groq</sub>
 
-Antimicrobial bioactivity prediction pipeline built on 309 curated compounds. Includes scaffold-split cross-validation, SHAP interpretability, and an interactive deployment on Hugging Face Spaces.
+Retrieval-augmented Q&A assistant grounded only in retrieved document text — with semantic caching, rule-based + LLM-as-judge guardrails against hallucination, a multi-model LLM gateway with cost tracking, and agentic tool-calling for questions the documents alone can't answer.
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 💳 SahajPay
+#### [💳 SahajPay](https://github.com/deepalsr/CDBC_project)
 
 <sub>React Native · Node.js · Prisma · PostgreSQL</sub>
 
@@ -176,21 +176,21 @@ Offline CBDC payment prototype for Nepal featuring ECDSA-signed offline tokens, 
 
 <td width="50%" valign="top">
 
-#### 🌐 Decentralized DNS
+#### [🧬 Himalayan Herbal AI](https://github.com/deepalsr/himalayan_herbal_ai)
 
-<sub>Solidity · IPFS · JavaScript</sub>
+<sub>Python · PyTorch · RDKit · FastAPI · SHAP</sub>
 
-Decentralized DNS replacement using Ethereum smart contracts and IPFS for blockchain-based domain mapping and decentralized resolution.
+Antimicrobial bioactivity prediction pipeline built on 309 curated compounds. Includes scaffold-split cross-validation, SHAP interpretability, and an interactive deployment on Hugging Face Spaces.
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 💬 AI Data Analyst
+#### [🌐 Decentralized DNS](https://github.com/deepalsr/ddnswithipfs)
 
-<sub>Python · Streamlit · DuckDB · Ollama</sub>
+<sub>Solidity · IPFS · JavaScript</sub>
 
-Natural-language-to-SQL assistant with query validation, safe database access, and interactive Plotly visualizations.
+Decentralized DNS replacement using Ethereum smart contracts and IPFS for blockchain-based domain mapping and decentralized resolution.
 
 </td>
 
@@ -200,21 +200,21 @@ Natural-language-to-SQL assistant with query validation, safe database access, a
 
 <td width="50%" valign="top">
 
-#### 🎭 Human Emotion Detection
+#### [💬 AI Data Analyst](https://github.com/deepalsr/ai-data-analyst)
 
-<sub>Python · TensorFlow · PyTorch</sub>
+<sub>Python · Streamlit · DuckDB · Ollama</sub>
 
-End-to-end multimodal machine-learning pipeline for emotion classification using deep-learning approaches.
+Natural-language-to-SQL assistant with query validation, safe database access, and interactive Plotly visualizations.
 
 </td>
 
 <td width="50%" valign="top">
 
-#### 🍽 Restaurant Management System
+#### [🩹 Self-Healing Docs](https://github.com/deepalsr/self_healing_docs)
 
-<sub>Python · Odoo · XML · PostgreSQL</sub>
+<sub>FastAPI · Tree-sitter · Pinecone · Gemini</sub>
 
-Production restaurant management system covering ordering, reservations, administration, and kitchen-display workflows for a live client.
+Parses Python source with tree-sitter and uses Gemini plus Pinecone vector search to catch documentation that's drifted out of sync with the code it describes.
 
 </td>
 
