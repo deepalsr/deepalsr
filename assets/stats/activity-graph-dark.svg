@@ -1,0 +1,31 @@
+<svg width="940" height="260" viewBox="0 0 940 260"
+     xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" rx="14" width="939" height="259"
+        fill="#1a1b21" stroke="#2a2c35"/>
+  <text x="25" y="35" fill="#C0C1FF" font-size="17" font-weight="600">Contribution Activity (weekly, last 20 weeks)</text>
+  
+  <path d="M 40,230 L 62.0,176.8 L 106.0,89.4 L 150.0,192.0 L 194.0,214.8 L 238.0,230.0 L 282.0,226.2 L 326.0,218.6 L 370.0,230.0 L 414.0,230.0 L 458.0,180.6 L 502.0,218.6 L 546.0,218.6 L 590.0,230.0 L 634.0,230.0 L 678.0,230.0 L 722.0,230.0 L 766.0,230.0 L 810.0,230.0 L 854.0,207.2 L 898.0,40.0 L 920.0,230 Z" fill="#4CD7F6" opacity="0.15"/>
+  <path d="M 62.0,176.8 L 106.0,89.4 L 150.0,192.0 L 194.0,214.8 L 238.0,230.0 L 282.0,226.2 L 326.0,218.6 L 370.0,230.0 L 414.0,230.0 L 458.0,180.6 L 502.0,218.6 L 546.0,218.6 L 590.0,230.0 L 634.0,230.0 L 678.0,230.0 L 722.0,230.0 L 766.0,230.0 L 810.0,230.0 L 854.0,207.2 L 898.0,40.0" fill="none" stroke="#4CD7F6" stroke-width="2"/>
+  <circle cx="62.0" cy="176.8" r="3" fill="#4CD7F6"/>
+  <circle cx="106.0" cy="89.4" r="3" fill="#4CD7F6"/>
+  <circle cx="150.0" cy="192.0" r="3" fill="#4CD7F6"/>
+  <circle cx="194.0" cy="214.8" r="3" fill="#4CD7F6"/>
+  <circle cx="238.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="282.0" cy="226.2" r="3" fill="#4CD7F6"/>
+  <circle cx="326.0" cy="218.6" r="3" fill="#4CD7F6"/>
+  <circle cx="370.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="414.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="458.0" cy="180.6" r="3" fill="#4CD7F6"/>
+  <circle cx="502.0" cy="218.6" r="3" fill="#4CD7F6"/>
+  <circle cx="546.0" cy="218.6" r="3" fill="#4CD7F6"/>
+  <circle cx="590.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="634.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="678.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="722.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="766.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="810.0" cy="230.0" r="3" fill="#4CD7F6"/>
+  <circle cx="854.0" cy="207.2" r="3" fill="#4CD7F6"/>
+  <circle cx="898.0" cy="40.0" r="3" fill="#4CD7F6"/>
+  <line x1="40" y1="230" x2="920" y2="230" stroke="#2a2c35"/>
+  
+</svg>

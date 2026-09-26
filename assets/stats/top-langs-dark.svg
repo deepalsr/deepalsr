@@ -1,0 +1,18 @@
+<svg width="465" height="249" viewBox="0 0 465 249"
+     xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" rx="14" width="464" height="248"
+        fill="#1a1b21" stroke="#2a2c35"/>
+  <text x="25" y="35" fill="#C0C1FF" font-size="17" font-weight="600">Top Languages</text>
+  <rect x="25.0" y="60" width="349.3" height="10" rx="5" fill="#3572A5"/>
+  <rect x="374.3" y="60" width="43.6" height="10" rx="5" fill="#DA5B0B"/>
+  <rect x="418.0" y="60" width="9.0" height="10" rx="5" fill="#fedf5b"/>
+  <rect x="426.9" y="60" width="2.6" height="10" rx="5" fill="#f34b7d"/>
+  <rect x="429.6" y="60" width="2.4" height="10" rx="5" fill="#555555"/>
+  <rect x="432.0" y="60" width="2.0" height="10" rx="5" fill="#3178c6"/>
+  <circle cx="30" cy="86" r="5" fill="#3572A5"/><text x="43" y="90" fill="#E3E1E9" font-size="12">Python</text><text x="185" y="90" fill="#E3E1E9" font-size="12">85.2%</text>
+  <circle cx="30" cy="110" r="5" fill="#DA5B0B"/><text x="43" y="114" fill="#E3E1E9" font-size="12">Jupyter Notebook</text><text x="185" y="114" fill="#E3E1E9" font-size="12">10.6%</text>
+  <circle cx="30" cy="134" r="5" fill="#fedf5b"/><text x="43" y="138" fill="#E3E1E9" font-size="12">Cython</text><text x="185" y="138" fill="#E3E1E9" font-size="12">2.2%</text>
+  <circle cx="30" cy="158" r="5" fill="#f34b7d"/><text x="43" y="162" fill="#E3E1E9" font-size="12">C++</text><text x="185" y="162" fill="#E3E1E9" font-size="12">0.6%</text>
+  <circle cx="30" cy="182" r="5" fill="#555555"/><text x="43" y="186" fill="#E3E1E9" font-size="12">C</text><text x="185" y="186" fill="#E3E1E9" font-size="12">0.6%</text>
+  <circle cx="30" cy="206" r="5" fill="#3178c6"/><text x="43" y="210" fill="#E3E1E9" font-size="12">TypeScript</text><text x="185" y="210" fill="#E3E1E9" font-size="12">0.3%</text>
+</svg>

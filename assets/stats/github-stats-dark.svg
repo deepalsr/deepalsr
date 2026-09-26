@@ -1,0 +1,12 @@
+<svg width="465" height="272" viewBox="0 0 465 272"
+     xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" rx="14" width="464" height="271"
+        fill="#1a1b21" stroke="#2a2c35"/>
+  <text x="25" y="35" fill="#C0C1FF" font-size="17" font-weight="600">Dipal Shrestha&#x27;s GitHub Stats</text>
+  <circle cx="30" cy="65" r="5" fill="#4CD7F6"/><text x="45" y="70" fill="#E3E1E9" font-size="13">Total Stars</text><text x="432" y="70" fill="#E3E1E9" font-size="13" font-weight="600">6</text>
+  <circle cx="30" cy="97" r="5" fill="#4CD7F6"/><text x="45" y="102" fill="#E3E1E9" font-size="13">Total Commits</text><text x="416" y="102" fill="#E3E1E9" font-size="13" font-weight="600">162</text>
+  <circle cx="30" cy="129" r="5" fill="#4CD7F6"/><text x="45" y="134" fill="#E3E1E9" font-size="13">Total PRs</text><text x="424" y="134" fill="#E3E1E9" font-size="13" font-weight="600">18</text>
+  <circle cx="30" cy="161" r="5" fill="#4CD7F6"/><text x="45" y="166" fill="#E3E1E9" font-size="13">Total Issues</text><text x="432" y="166" fill="#E3E1E9" font-size="13" font-weight="600">0</text>
+  <circle cx="30" cy="193" r="5" fill="#4CD7F6"/><text x="45" y="198" fill="#E3E1E9" font-size="13">Contributions (this yr)</text><text x="416" y="198" fill="#E3E1E9" font-size="13" font-weight="600">197</text>
+  <circle cx="30" cy="225" r="5" fill="#4CD7F6"/><text x="45" y="230" fill="#E3E1E9" font-size="13">Followers</text><text x="424" y="230" fill="#E3E1E9" font-size="13" font-weight="600">13</text>
+</svg>
