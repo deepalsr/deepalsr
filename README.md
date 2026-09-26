@@ -278,18 +278,6 @@ Parses Python source with tree-sitter and uses Gemini plus Pinecone vector searc
 
 </div>
 
-## `06` — Contribution Snake
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/deepalsr/deepalsr/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
 <br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
