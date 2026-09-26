@@ -278,17 +278,6 @@ Production restaurant management system covering ordering, reservations, adminis
 
 </div>
 
-## `06` — Contribution Snake
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/deepalsr/deepalsr/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
 
 <br/>
 
