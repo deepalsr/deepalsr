@@ -1,0 +1,45 @@
+name: Generate GitHub Stats
+
+# Runs on a schedule and on demand — NOT on push, so it can never trigger
+# itself in a loop. Trigger a run manually from the Actions tab any time
+# via "Run workflow".
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day at 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate stats SVGs
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_USERNAME: deepalsr
+        run: python scripts/generate_stats.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/*.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh self-hosted stats SVGs"
+            git push
+          fi
