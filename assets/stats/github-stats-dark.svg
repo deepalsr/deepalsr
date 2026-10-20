@@ -8,5 +8,5 @@
   <circle cx="30" cy="129" r="5" fill="#4CD7F6"/><text x="45" y="134" fill="#E3E1E9" font-size="13">Total PRs</text><text x="424" y="134" fill="#E3E1E9" font-size="13" font-weight="600">33</text>
   <circle cx="30" cy="161" r="5" fill="#4CD7F6"/><text x="45" y="166" fill="#E3E1E9" font-size="13">Total Issues</text><text x="432" y="166" fill="#E3E1E9" font-size="13" font-weight="600">0</text>
   <circle cx="30" cy="193" r="5" fill="#4CD7F6"/><text x="45" y="198" fill="#E3E1E9" font-size="13">Contributions (this yr)</text><text x="416" y="198" fill="#E3E1E9" font-size="13" font-weight="600">332</text>
-  <circle cx="30" cy="225" r="5" fill="#4CD7F6"/><text x="45" y="230" fill="#E3E1E9" font-size="13">Followers</text><text x="424" y="230" fill="#E3E1E9" font-size="13" font-weight="600">13</text>
+  <circle cx="30" cy="225" r="5" fill="#4CD7F6"/><text x="45" y="230" fill="#E3E1E9" font-size="13">Followers</text><text x="424" y="230" fill="#E3E1E9" font-size="13" font-weight="600">14</text>
 </svg>
